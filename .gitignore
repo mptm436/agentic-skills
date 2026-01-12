@@ -1,0 +1,23 @@
+# Private skills (not tracked in git)
+skills/private/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Planning files (temporary)
+task_plan.md
+findings.md
+progress.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
